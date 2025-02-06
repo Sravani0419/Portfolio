@@ -1,7 +1,7 @@
 
 # 👩‍💻 Sravani P - Senior Java Full Stack Developer
 
-![Profile Picture](WhatsApp Image 2024-12-17 at 12.59.25 PM.jpeg)
+![Profile Picture](pic.jpeg)
 
 Welcome to my portfolio repository! I'm a **Senior Java Full Stack Developer** with over **5+ years of experience** in designing, developing, and deploying large-scale enterprise applications across industries like banking, insurance, logistics, eCommerce, and energy.
 
