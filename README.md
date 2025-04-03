@@ -3,10 +3,10 @@
 
 ![Profile Picture](pic.jpg)
 
-Welcome to my portfolio repository! I'm a **Senior Java Full Stack Developer** with over **5+ years of experience** in designing, developing, and deploying large-scale enterprise applications across industries like banking, insurance, logistics, eCommerce, and energy.
+Welcome to my portfolio repository! I'm a **Senior Java Full Stack Developer** with over **4 years of experience** in designing, developing, and deploying large-scale enterprise applications across industries like banking, insurance, logistics, eCommerce, and energy.
 
-📧 **Email:** [sravanip0120@gmail.com](mailto:sravanip0120@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/p-sravani-515199181](https://www.linkedin.com/in/p-sravani-515199181/)  
+📧 **Email:**[psravani0419@gmail.com](mailto:psravani0419@gmail.com)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sravanijava/)
 
 ---
 
@@ -22,21 +22,37 @@ I am passionate about creating scalable, secure, and high-performance applicatio
 - **Tools:** Eclipse, IntelliJ, JIRA, Maven, Git, Jenkins, Ansible
 
 ---
+Experience
+Java Full Stack Developer at Piper Sandler (Aug 2023 – Present)
+Developed real-time financial dashboards using React, Spring Boot, and Node.js.
 
-## 🏆 Experience
+Integrated REST APIs and external market data feeds for trading platforms.
 
-### 🔹 **Java Full Stack Developer** at **Bank of America** (Nov 2023 – Present)
-- Developed enterprise-grade features using Java 17, Spring Boot, and AWS Cloud.
-- Built secure REST APIs and microservices for high-performance banking applications.
-- Implemented OAuth2, OIDC, and PKI for secure authentication.
+Built data pipelines with Kafka for event-driven architecture and stock price streaming.
 
-### 🔹 **Senior Java Developer** at **Aspen Tech** (Sep 2022 – Oct 2023)
-- Designed cloud-native applications using AWS, Spring Boot, and React.
-- Optimized large-scale data processing systems with PostgreSQL and MongoDB.
+Deployed containerized microservices on AWS using Docker and Kubernetes.
 
-### 🔹 **Java Developer** at **USAA** (Apr 2021 – Jul 2022)
-- Developed microservices and integrated payment systems using Spring Boot and Node.js.
-- Built responsive UI components with Angular and improved system performance.
+Collaborated with designers and product teams to deliver responsive, interactive UIs with attention to detail.
+
+🔹 Associate Software Engineer at Tata Consultancy Services (TCS) (Aug 2021 – Aug 2022)
+Built modular Angular components and backend services with Node.js and Java for an insurance and banking platform.
+
+Designed and optimized SQL queries in MySQL, reducing execution time by 40%.
+
+Developed and deployed micro frontends to streamline release cycles and improve UI performance.
+
+Implemented CI/CD pipelines using Jenkins, Bitbucket, and Azure DevOps.
+
+🔹 Software Engineer at DataOne (Apr 2020 – Jul 2021)
+Developed scalable REST APIs and full-stack features using React, Node.js, and Spring Boot.
+
+Engineered high-volume data ingestion pipelines with Kafka and Apache Spark, processing 10M+ records/day.
+
+Improved API performance by 50% using Redis caching and SQL optimization.
+
+Deployed applications on AWS and GCP, leveraging Docker and Kubernetes for orchestration.
+
+
 
 ---
 
@@ -52,8 +68,8 @@ I am passionate about creating scalable, secure, and high-performance applicatio
 
 If you'd like to collaborate, feel free to reach out:
 
-- **Email:** [sravanip0120@gmail.com](mailto:sravanip0120@gmail.com)
-- **LinkedIn:** [linkedin.com/in/p-sravani-515199181](https://www.linkedin.com/in/p-sravani-515199181/)
+- **Email:** [psravani0419@gmail.com](mailto:psravani0419@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/sravanijava/)
 
 ---
 
